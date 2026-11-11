@@ -1,6 +1,6 @@
 # 英语学习网站
 
-线上：https://astemo6.github.io/english-learning/
+线上：https://wdjiangdev.github.io/english-learning/
 
 - **知识学习**：BEC / 雅思 / CET6 / 托福词库（约 1.98 万词），搜索、筛选高频核心词，点 🔊 听英音或美音。
 - **背单词**：真正的间隔复习。每个词记录掌握阶段和下次复习时间（20 分钟 → 1 → 2 → 4 → 7 → 15 → 30 → 60 天），先复习到期词再学新词；进度存本机浏览器，可导出 / 导入 JSON 备份。
